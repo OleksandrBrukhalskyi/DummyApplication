@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">DummyApplication</string>
     <string name="click_me">Click Me</string>
+    <string-array name="colors">
+        <item>Чорний:#FF0000</item>
+        <item>Червоний:#FF0000</item>
+        <item>Синій:#0000FF</item>
+        <item>Зелений:#00FF00</item>
+    </string-array>
 </resources>
